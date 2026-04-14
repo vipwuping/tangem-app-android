@@ -445,7 +445,7 @@
   <string name="details_buy_wallet">购买 Tangem 钱包</string>
   <string name="details_chat">聊天</string>
   <string name="details_manage_security_access_code">访问码</string>
-  <string name="details_manage_security_access_code_description">在扫描卡片之前，您必须提交正确的访问码</string>
+  <string name="details_manage_security_access_code_description">扫描卡片或戒指前，必须输入正确的访问码才能继续操作。这可以防止他人未经授权使用您的卡片。</string>
   <string name="details_manage_security_long_tap">长按</string>
   <string name="details_manage_security_long_tap_description">此机制可防止卡片或戒指受到近距离攻击。它将强制在接收和执行命令之间进行延迟。</string>
   <string name="details_manage_security_passcode">密码</string>
